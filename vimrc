@@ -34,9 +34,9 @@ let g:syntastic_check_on_wq = 0
 "==============================================================================
 
 syntax on
-set background=dark
-set hlsearch
-set nu
+"set background=dark
+"set hlsearch
+"set nu
 
 
 " set smartindent  "smartindent doesn't take care of python hashtag comments correctly, use cindent:    
